@@ -1,0 +1,16 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    text-align: center;
+    padding: 15rem;
+}
+
+h1{
+    font-weight: 200;
+}
+
+span{
+    font-size: 15em;
+}
